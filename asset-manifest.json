@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/progresstracker/static/css/main.a617e044.chunk.css",
-    "main.js": "/progresstracker/static/js/main.f4e1d975.chunk.js",
-    "main.js.map": "/progresstracker/static/js/main.f4e1d975.chunk.js.map",
+    "main.js": "/progresstracker/static/js/main.ded88ae1.chunk.js",
+    "main.js.map": "/progresstracker/static/js/main.ded88ae1.chunk.js.map",
     "runtime-main.js": "/progresstracker/static/js/runtime-main.d7b99060.js",
     "runtime-main.js.map": "/progresstracker/static/js/runtime-main.d7b99060.js.map",
     "static/css/2.0f1110e3.chunk.css": "/progresstracker/static/css/2.0f1110e3.chunk.css",
@@ -14,14 +14,13 @@
     "static/css/2.0f1110e3.chunk.css.map": "/progresstracker/static/css/2.0f1110e3.chunk.css.map",
     "static/css/main.a617e044.chunk.css.map": "/progresstracker/static/css/main.a617e044.chunk.css.map",
     "static/js/2.f9bb1862.chunk.js.LICENSE.txt": "/progresstracker/static/js/2.f9bb1862.chunk.js.LICENSE.txt",
-    "static/media/data.51a55410.csv": "/progresstracker/static/media/data.51a55410.csv",
-    "static/media/logo.6ce24c58.svg": "/progresstracker/static/media/logo.6ce24c58.svg"
+    "static/media/data.51a55410.csv": "/progresstracker/static/media/data.51a55410.csv"
   },
   "entrypoints": [
     "static/js/runtime-main.d7b99060.js",
     "static/css/2.0f1110e3.chunk.css",
     "static/js/2.f9bb1862.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.f4e1d975.chunk.js"
+    "static/js/main.ded88ae1.chunk.js"
   ]
 }
