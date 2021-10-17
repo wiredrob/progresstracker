@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-        <h1>Tracking our progress - Test!</h1>
+        <h1>Tracking our progress!</h1>
         <MigrationProgressBar />
     </div>
   );
